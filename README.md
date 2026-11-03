@@ -1,5 +1,5 @@
-<img width="2560" height="1440" alt="surf-fed-launch-05" src="https://github.com/user-attachments/assets/b125ec41-c08f-4aa5-98f1-c3b40d1b3422" />
-[README.md](https://github.com/user-attachments/files/31333509/README.md)
+<img width="1329" height="725" alt="Screenshot 2026-10-31 102202" src="https://github.com/user-attachments/assets/9940a5eb-84c8-488e-8832-5a5719e2693d" />
+
 # Electron Browser (starter)
 
 A minimal tabbed web browser built with Electron. All icons are placeholders
@@ -11,6 +11,8 @@ any code.
 > full guide, or click the 🧩 button in the toolbar to open the Extensions
 > Manager. Three built-in example extensions are included (Ad Blocker,
 > Dark Reader, Page Info).
+
+<img width="1326" height="725" alt="Screenshot 2026-10-31 171107" src="https://github.com/user-attachments/assets/9b3bb5ef-fd7a-46cf-b046-54392de29f60" />
 
 ## Run it
 
@@ -54,6 +56,8 @@ electron-browser/
     └── user/                   # (empty) drop your own extensions here (dev)
 ```
 
+<img width="1330" height="722" alt="Screenshot 2026-10-31 171053" src="https://github.com/user-attachments/assets/31113987-27e1-4b83-accd-222cf19cae02" />
+
 ## Extensions
 
 Surf FED supports loading **unpacked Chrome extensions** (Manifest V2 and V3).
@@ -91,6 +95,8 @@ run:
 npm run icons                 # regenerates assets/icons/*
 python3 scripts/make_ui_icons.py   # regenerates assets/icons/ui/*
 ```
+
+<img width="848" height="717" alt="Screenshot 2026-10-31 170901" src="https://github.com/user-attachments/assets/0b3c6ff9-b31e-4d69-9358-b9bd6a28d222" />
 
 ## Building distributables
 
